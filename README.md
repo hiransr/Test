@@ -1,2 +1,2 @@
 # Test
-only for tes
+only for test
